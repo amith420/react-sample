@@ -1,0 +1,45 @@
+.App{
+    border: 1px solid yellowgreen;
+    height: 350px;
+    width: 400px;
+    margin-left: 30%;
+    background-image: url(turf.jpg);
+}
+
+.header{
+    color:beige;
+}
+
+.score-area{
+    color: #f5f5dc;
+    font-size: 70px;
+}
+
+.btn1{
+    background-color: coral;
+    border-color: coral;
+    
+}
+
+.btn2{
+    background-color: coral;
+    border-color: coral;
+}
+
+.btn3{
+    background-color: coral;
+    border-color: coral;
+}
+
+.btn4{
+    background-color: coral;
+    border-color: coral;
+}
+
+.year{
+    color: beige;
+}
+
+.para{
+    color: beige; 
+}
